@@ -24,6 +24,12 @@ O Amigo Secreto é uma aplicação que permite aos usuários inserir nomes de am
 
 ## Como Usar
 
+A aplicação está disponível em:
+
+https://amigo-secreto-nine-gilt.vercel.app/
+
+Para usar localmente em seu computador, siga o passo a passo seguinte:
+
 1.  Clone este repositório para o seu computador.
 
   ```
